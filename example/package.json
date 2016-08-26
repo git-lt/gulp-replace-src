@@ -1,0 +1,25 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-csso": "^2.0.0",
+    "gulp-if": "^2.0.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-postcss": "^6.1.1",
+    "gulp-rev": "^7.1.2",
+    "gulp-sequence": "^0.4.5",
+    "gulp-uglify": "^2.0.0",
+    "jshint": "^2.9.3",
+    "postcss-px2rem": "^0.3.0"
+  }
+}

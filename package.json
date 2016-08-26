@@ -1,0 +1,29 @@
+{
+  "name": "gulp-replace-src",
+  "version": "0.0.1",
+  "description": "Rewrite occurences of filenames which have been renamed by gulp-rev",
+  "main": "index.js",
+  "repository": "",
+  "scripts": {},
+  "keywords": [
+    "gulpplugin",
+    "rev",
+    "version",
+    "replace",
+    "path"
+  ],
+  "author": {
+    "name": "aitter",
+    "email": "935486956@qq.com",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  }
+}
